@@ -1,0 +1,6 @@
+name: SpawnShulker
+version: 1.1.0
+main: pl.spawnshulker.SpawnShulkerPlugin
+api-version: '26.3'
+depend: [WorldGuard]
+description: Read-only shulker preview only inside the WorldGuard region named spawn.
